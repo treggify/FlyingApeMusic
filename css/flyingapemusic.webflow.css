@@ -233,7 +233,7 @@ a:hover {
   -ms-flex-align: center;
   align-items: center;
   background-color: #222225;
-  background-image: url('../images/The-Flying-Ape---ハリネズミのソニック.png');
+  background-image: url('../images/The-Flying-Ape-img.png');
   background-position: 100% 0px;
   background-size: cover;
   background-repeat: repeat-x;
@@ -328,4 +328,3 @@ a:hover {
     border-top: 1px solid hsla(0, 0%, 100%, .24);
   }
 }
-
